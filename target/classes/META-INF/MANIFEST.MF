@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Ts-Java-Graphics
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: woosun
+Implementation-Vendor-Id: ts.graphics
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/Ts-Java-Grap
+ hics/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
